@@ -47,5 +47,23 @@ footer {
     text-align: center;
     margin-bottom: 0;
     height: 40px;
-    
+
 }
+
+.wild{
+    
+    display: flex;
+    flex-direction: row;
+}
+
+.fuzzy{
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 400px;
+}
+
+
+
